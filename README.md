@@ -1,6 +1,7 @@
 # Travel Site Application
 
 Aplicație web pentru servicii de închiriere de proprietăți.
+!!! In baza de date sunt adaugate cazari doar pentru orasele Bucuresti, Braila, Alba Iulia si Brasov !!!! 
 
 ## Instalare
 
